@@ -5,3 +5,4 @@ pandas
 openpyxl
 celery
 redis
+dj-database-url
